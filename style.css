@@ -1,0 +1,38 @@
+.add{
+    color: white;
+    background-color: blue;
+    font-size: 30px;
+}
+.input{
+    font-size: 30px;
+    
+    
+}
+.del{
+    color: white;
+    background-color: rgb(207, 0, 0);
+    font-size: 30px;
+}
+body{
+    text-align: center;
+   
+}
+.heading{
+    font-size: 40px;
+}
+.listItems{
+    font-size: 30px;
+}
+
+.editBtn,.delBtn{
+    font-size: 25px;
+    background-color: purple;
+    color: white;
+
+}
+.delBtn{
+    margin-left: 30px;
+}
+.editBtn,.done{
+    margin-left: 8px;
+}
